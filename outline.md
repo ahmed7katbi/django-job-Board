@@ -1,8 +1,8 @@
 Job :
--title
--location
--job type
--description
+-title-
+-location-
+-job type-
+-description-
 -published at
 -vacany
 -salary
